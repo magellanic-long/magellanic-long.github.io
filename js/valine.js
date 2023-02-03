@@ -123,7 +123,7 @@
             "use strict";
             Object.defineProperty(t, "__esModule", { value: !0 }),
                 (t.VERSION = "4.2.2"),
-                (t.GBUrl = "https://gravatar.loli.net/avatar/"),
+                (t.GBUrl = "https://gravatar.com/avatar/"),
                 (t.EUrl = [
                     "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Crayon",
                     "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily",	
