@@ -8,9 +8,22 @@
     <author>
       <name>Mực</name>
     </author>
-    <updated>2023-01-30T13:45:48.000Z</updated>
+    <updated>2023-02-01T19:02:02.000Z</updated>
     <category term="Mực" />
     <category term=" Magellanic" />
+    <entry>
+        <id>https://wibu.caidu.me/game/honkai/</id>
+        <title>Honkai Impact 3</title>
+        <link rel="alternate" href="https://wibu.caidu.me/game/honkai/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ytimg.com/vi/Wyw_mPWIp90/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;amp;rs=AOn4CLBix6fBN0wG-dDMVJyCamf-VCShfw&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="GAME" scheme="https://wibu.caidu.me/categories/game/" />
+        <updated>2023-02-01T19:02:02.000Z</updated>
+    </entry>
     <entry>
         <id>https://wibu.caidu.me/aws/LambdaEdge-function/</id>
         <title>How to deploy the first Lambda@Edge function</title>

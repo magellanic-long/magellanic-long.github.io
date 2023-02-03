@@ -10,10 +10,23 @@
         </author>
         <description>Gần mực thì đen, gần đen thì hết mực</description>
         <language>en</language>
-        <pubDate>Mon, 30 Jan 2023 20:45:48 +0700</pubDate>
-        <lastBuildDate>Mon, 30 Jan 2023 20:45:48 +0700</lastBuildDate>
+        <pubDate>Thu, 02 Feb 2023 02:02:02 +0700</pubDate>
+        <lastBuildDate>Thu, 02 Feb 2023 02:02:02 +0700</lastBuildDate>
         <category term="Mực" />
         <category term=" Magellanic" />
+        <item>
+            <guid isPermalink="true">https://wibu.caidu.me/game/honkai/</guid>
+            <title>Honkai Impact 3</title>
+            <link>https://wibu.caidu.me/game/honkai/</link>
+            <category term="GAME" scheme="https://wibu.caidu.me/categories/game/" />
+            <pubDate>Thu, 02 Feb 2023 02:02:02 +0700</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.ytimg.com/vi/Wyw_mPWIp90/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;amp;rs=AOn4CLBix6fBN0wG-dDMVJyCamf-VCShfw&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://wibu.caidu.me/aws/LambdaEdge-function/</guid>
             <title>How to deploy the first Lambda@Edge function</title>
