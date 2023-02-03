@@ -15,19 +15,6 @@
         <category term="Mực" />
         <category term=" Magellanic" />
         <item>
-            <guid isPermalink="true">https://wibu.caidu.me/html-css/introduction/</guid>
-            <title>Giới thiệu về HTML &amp; CSS</title>
-            <link>https://wibu.caidu.me/html-css/introduction/</link>
-            <category term="HTML&amp;CSS" scheme="https://wibu.caidu.me/categories/html-css/" />
-            <category term="Web Development Tutorials For Beginners" scheme="https://wibu.caidu.me/categories/html-css/basic/" />
-            <category term="FrontEnd" scheme="https://wibu.caidu.me/tags/FrontEnd/" />
-            <category term="HTML" scheme="https://wibu.caidu.me/tags/HTML/" />
-            <category term="CSS" scheme="https://wibu.caidu.me/tags/CSS/" />
-            <pubDate>Mon, 30 Jan 2023 20:45:48 +0700</pubDate>
-            <description><![CDATA[ &lt;p&gt;HTML-CSS là gì.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://wibu.caidu.me/aws/LambdaEdge-function/</guid>
             <title>How to deploy the first Lambda@Edge function</title>
             <link>https://wibu.caidu.me/aws/LambdaEdge-function/</link>
@@ -47,6 +34,19 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://wibu.caidu.me/html-css/introduction/</guid>
+            <title>Giới thiệu về HTML &amp; CSS</title>
+            <link>https://wibu.caidu.me/html-css/introduction/</link>
+            <category term="HTML&amp;CSS" scheme="https://wibu.caidu.me/categories/html-css/" />
+            <category term="Web Development Tutorials For Beginners" scheme="https://wibu.caidu.me/categories/html-css/basic/" />
+            <category term="FrontEnd" scheme="https://wibu.caidu.me/tags/FrontEnd/" />
+            <category term="HTML" scheme="https://wibu.caidu.me/tags/HTML/" />
+            <category term="CSS" scheme="https://wibu.caidu.me/tags/CSS/" />
+            <pubDate>Mon, 30 Jan 2023 20:45:48 +0700</pubDate>
+            <description><![CDATA[ &lt;p&gt;HTML-CSS là gì.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
