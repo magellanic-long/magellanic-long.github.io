@@ -12,19 +12,6 @@
     <category term="Mực" />
     <category term=" Magellanic" />
     <entry>
-        <id>https://wibu.caidu.me/html-css/introduction/</id>
-        <title>Giới thiệu về HTML &amp; CSS</title>
-        <link rel="alternate" href="https://wibu.caidu.me/html-css/introduction/"/>
-        <content type="html">&lt;p&gt;HTML-CSS là gì.&lt;/p&gt;
-</content>
-        <category term="HTML&amp;CSS" scheme="https://wibu.caidu.me/categories/html-css/" />
-        <category term="Web Development Tutorials For Beginners" scheme="https://wibu.caidu.me/categories/html-css/basic/" />
-        <category term="FrontEnd" scheme="https://wibu.caidu.me/tags/FrontEnd/" />
-        <category term="HTML" scheme="https://wibu.caidu.me/tags/HTML/" />
-        <category term="CSS" scheme="https://wibu.caidu.me/tags/CSS/" />
-        <updated>2023-01-30T13:45:48.000Z</updated>
-    </entry>
-    <entry>
         <id>https://wibu.caidu.me/aws/LambdaEdge-function/</id>
         <title>How to deploy the first Lambda@Edge function</title>
         <link rel="alternate" href="https://wibu.caidu.me/aws/LambdaEdge-function/"/>
@@ -44,6 +31,19 @@
         <category term="AWS" scheme="https://wibu.caidu.me/tags/AWS/" />
         <category term="Lambda" scheme="https://wibu.caidu.me/tags/Lambda/" />
         <category term="Lambda@Edge" scheme="https://wibu.caidu.me/tags/Lambda-Edge/" />
+        <updated>2023-01-30T13:45:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://wibu.caidu.me/html-css/introduction/</id>
+        <title>Giới thiệu về HTML &amp; CSS</title>
+        <link rel="alternate" href="https://wibu.caidu.me/html-css/introduction/"/>
+        <content type="html">&lt;p&gt;HTML-CSS là gì.&lt;/p&gt;
+</content>
+        <category term="HTML&amp;CSS" scheme="https://wibu.caidu.me/categories/html-css/" />
+        <category term="Web Development Tutorials For Beginners" scheme="https://wibu.caidu.me/categories/html-css/basic/" />
+        <category term="FrontEnd" scheme="https://wibu.caidu.me/tags/FrontEnd/" />
+        <category term="HTML" scheme="https://wibu.caidu.me/tags/HTML/" />
+        <category term="CSS" scheme="https://wibu.caidu.me/tags/CSS/" />
         <updated>2023-01-30T13:45:48.000Z</updated>
     </entry>
     <entry>
